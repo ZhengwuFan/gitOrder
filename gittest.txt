@@ -1,4 +1,2 @@
-这是git
 Git is a distributed version control system.
-修改
-增加1
+Git is free software distributed under the GPL.
