@@ -1,2 +1,9 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+git init	(初始化git)
+git add "name.txt" 	（添加文件）
+git commit -m "commit" （提交文件）
+git status	（仓库状态）
+git diff "name.txt"	（查看修改内容）
+git reset --hard HEAD^	（回退HEAD^可以换成log里显示的id）
+git log	（提交日志）
+git reflog	（每一此修改的记录）
+
